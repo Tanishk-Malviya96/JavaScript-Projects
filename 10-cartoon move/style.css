@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color:white
+}
+html,body{
+    width: 100%;
+    height:100%;
+    
+}
+body{
+    background-color: black;
+    position: relative;
+   
+}
+#img1{
+    object-fit: cover;
+    position:absolute;
+    
+    
+}
+
+
